@@ -1,7 +1,14 @@
-# truffle-init-default
+# Requirements
+npm install truffle ethereumjs-testrpc
 
-Default project for Truffle: example contracts, migrations and tests
+# Instructions
+Run the following commands
+1) testrpc
 
-## Usage
+Run these in a seperate tab
+2) truffle compile
+3) truffle migrate
+4) truffle deploy
 
-See the [Truffle documentation](http://truffleframework.com/docs/) for more info.
+
+
